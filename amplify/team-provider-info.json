@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-memonote-dev-61906-authRole",
+      "UnauthRoleArn": "arn:aws:iam::184463578931:role/amplify-memonote-dev-61906-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::184463578931:role/amplify-memonote-dev-61906-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-memonote-dev-61906-deployment",
+      "UnauthRoleName": "amplify-memonote-dev-61906-unauthRole",
+      "StackName": "amplify-memonote-dev-61906",
+      "StackId": "arn:aws:cloudformation:us-east-1:184463578931:stack/amplify-memonote-dev-61906/e5156230-fbf3-11ea-8979-0ecdc090d557",
+      "AmplifyAppId": "d2oo29tl8mddjk"
+    }
+  }
+}
